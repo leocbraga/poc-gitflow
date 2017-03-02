@@ -5,8 +5,12 @@
 
 	<groupId>br.com.gitflow</groupId>
 	<artifactId>teste</artifactId>
-	<version>1.0.0.0</version>
+	<version>1.0.0.1</version>
+<properties>
 
+
+
+</properties>
 	<dependencies>
 	
 	</dependencies>
